@@ -13,13 +13,13 @@ var OpenBrowserWebpackPlugin = require('open-browser-webpack-plugin');
 /**
  * Webpack Constants
  */
-const ROOT = path.resolve( __dirname, 'src');
+const ROOT = path.resolve( __dirname, 'source');
 const BUILD_DESTINATION = path.resolve( __dirname, 'build');
 const DIST_DESTINATION = path.resolve( __dirname, 'dist');
 
 var PARAMS_DEFAULT = {
     entry: {
-        main: './src/app/root.module.js',
+        main: './source/app/root.module.js',
         vendor: ['angular', 'angular-animate']
     },
     output: {
