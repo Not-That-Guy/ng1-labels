@@ -1,0 +1,13 @@
+.labelSize {
+ font-size: 7em;
+}
+
+.border-right {
+  border-right: 1px solid #fff;
+  padding-left: 60px;
+  margin-right: 20px;
+}
+
+p {
+  margin-bottom: 0.5em;
+}
