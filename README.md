@@ -1,1 +1,3 @@
-## ng1-labels
+## Ng-One-Apparel
+
+Angular streetwear for your next website.
