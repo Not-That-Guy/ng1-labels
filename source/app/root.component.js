@@ -1,6 +1,7 @@
 import templateUrl from './root.html';
 
-import '../css/sierra.css';
+import '../../node_modules/hack/dist/standard.css';
+import '../../node_modules/hack/dist/dark.css';
 import '../../node_modules/devicons/css/devicons.css'
 import '../css/base.css'
 
